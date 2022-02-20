@@ -5,7 +5,7 @@ It focuses on classification and linear classifiers. You will learn about logist
 This script is meant as a guid for students to learn Python and do Assignment 2 of the course. It has more missing lines than those of previous assignment, so that students can be more independent when developing a code
 
 Please note the following:
-1) Data is ALREADY RANDOMLY SAMPLED
+1) Data is ALREADY RANDOMLY SHUFFLED
 2) DO NOT change the structure of the code. Just fill in the 
 missing line
 3) FILL IN the missing lines in both "main.py" and "utils.py"

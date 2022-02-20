@@ -7,7 +7,7 @@ This script is meant as a guid for students to learn Python and do Assignment 2 
 Please note the following:
 1) Data is ALREADY RANDOMLY SHUFFLED
 2) DO NOT change the structure of the code. Just fill in the 
-missing line
+missing lines
 3) FILL IN the missing lines in both "main.py" and "utils.py"
 4) The script must type out the training record for each model.
 5) Print validation loss of both models. 

@@ -9,6 +9,16 @@ Assignment 2 of the course. It has more missing lines than those of
 previous assignment, so that students can be more independent when
 developing a code
 
+Please note the following:
+1) Data is ALREADY RANDOMLY SHUFFLED
+2) DO NOT change the structure of the code. Just fill in the
+missing line
+3) FILL IN the missing lines in both "main.py" and "utils.py"
+4) The script must type out the training record for each model.
+5) Print validation loss of both models.
+6) Make sure the visualization section works. It must produce
+four figures.
+
 Happy coding... ;-)
 ============================
 Author: Muhammad Alrabeiah

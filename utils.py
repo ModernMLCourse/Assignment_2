@@ -1,5 +1,6 @@
 """
 Utility functions
+PLEASE read function notes carefully
 ==========================
 Author: Muhammad Alrabeiah
 Date: Feb. 2022
